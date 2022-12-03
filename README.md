@@ -1,29 +1,25 @@
 # alcancia
 
-This template should help get you started developing with Vue 3 in Vite.
+Alcancia de monedas colombianas
 
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## instalation
+
+## paso 1) En su ventana de comandos ejecute npm install
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### paso 2) para ejecutar el proyecto debe utilizar en su ventana de comandos npm run dev
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
